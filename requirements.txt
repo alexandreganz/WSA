@@ -1,0 +1,6 @@
+# required for jupyter notebooks in VS Code
+ipython
+ipykernel
+# computer vision
+opencv-python
+matplotlib
